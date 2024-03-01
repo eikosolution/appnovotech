@@ -45,5 +45,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-![1174949_js_react js_logo_react_react native_icon](https://github.com/eikosolution/appnovotech/assets/68613360/5cbdf2ee-d823-4ee4-b59e-9c0e7d2e9ea6)
+![image](https://github.com/eikosolution/appnovotech/assets/68613360/62615b90-4014-4fbb-a855-9013e60a689d)
+
 
